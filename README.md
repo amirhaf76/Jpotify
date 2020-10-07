@@ -1,2 +1,2 @@
 # Jpotify
-## this is our fina ap project
+## this is our final ap project
